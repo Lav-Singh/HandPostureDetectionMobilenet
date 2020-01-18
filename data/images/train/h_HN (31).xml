@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>h_HN (31).jpg</filename>
+	<path>C:\Users\Lav Singh\Desktop\Dataset\NUS-Hand-Posture-Dataset-II\index\train\h_HN (31).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>index</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>3</ymin>
+			<xmax>244</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>
