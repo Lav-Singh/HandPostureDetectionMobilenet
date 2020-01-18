@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>h (22).jpg</filename>
+	<path>C:\Users\Lav Singh\Desktop\Dataset\NUS-Hand-Posture-Dataset-II\index\test\h (22).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>160</width>
+		<height>120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>index</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>22</ymin>
+			<xmax>118</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+</annotation>
