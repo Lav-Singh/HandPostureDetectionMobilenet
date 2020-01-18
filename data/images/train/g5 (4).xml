@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>g5 (4).jpg</filename>
+	<path>C:\Users\Lav Singh\Desktop\Dataset\NUS-Hand-Posture-Dataset-II\index\train\g5 (4).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>160</width>
+		<height>120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>index</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>14</ymin>
+			<xmax>87</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>
